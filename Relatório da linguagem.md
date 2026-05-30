@@ -1,21 +1,21 @@
 # Linguagem Swift
-### Divisão de tarefas:
+## Divisão de tarefas:
 
-Daniel Cezário:
+### Daniel Cezário:
 -
 -Historia da linguagem
 
 -criadores.
 
-Gustavo Rodrigo:
+### Gustavo Rodrigo:
 -
 -Exeplos.
 
-Weslley Henrique:
+### Weslley Henrique:
 -
 -Vantagens e desvantagens
 
-Caio Lima:
+### Caio Lima:
 -
 -Curiosidades
 
