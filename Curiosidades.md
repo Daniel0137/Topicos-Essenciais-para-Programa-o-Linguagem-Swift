@@ -1,4 +1,5 @@
 # Curiosidades
+
 ### Caio Lima
 
 O Swift é a poderosa linguagem de programação da Apple, lançada em 2014 para substituir o Objective-C. Projetada para ser rápida, segura e intuitiva, ela possui características únicas que encantam desenvolvedores em todo o mundo.
