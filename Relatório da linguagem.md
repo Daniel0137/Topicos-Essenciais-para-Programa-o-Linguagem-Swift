@@ -7,7 +7,7 @@
 -criadores.
 
 ### Gustavo Rodrigo:
--Exeplos.
+-Exemplos.
 
 ### Weslley Henrique:
 -Vantagens e desvantagens
