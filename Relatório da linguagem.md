@@ -2,23 +2,17 @@
 ## Divisão de tarefas:
 
 ### Daniel Cezário:
--
 -Historia da linguagem
 
 -criadores.
 
 ### Gustavo Rodrigo:
--
 -Exeplos.
 
 ### Weslley Henrique:
--
 -Vantagens e desvantagens
 
 ### Caio Lima:
--
--Curiosidades
-
 -Curiosidades.
 
 ## Referências:
