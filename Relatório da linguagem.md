@@ -20,6 +20,7 @@ Caio Lima:
 -Curiosidades
 
 -Curiosidades.
+
 ## Referências:
 LATTNER, Chris. Chris Lattner's Homepage. Disponível em: https://www.nondot.org/sabre/. Acesso em: 30 maio 2026.
 
