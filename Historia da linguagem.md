@@ -1,4 +1,4 @@
 # Historia da linguagem
 
-### Daniel Cezario
+### Daniel Cezário
 
